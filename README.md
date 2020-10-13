@@ -32,8 +32,8 @@
 
 | Algorithm             | Accuracy      |
 | -------------         | ------------- |
-| Random Forest         | 90.84%        |
-| MultinomialNB         | 89.48%        |
+| Random Forest         | 89.48%        |
+| MultinomialNB         | 90.84%        |
 | SVM                   | 89.16%        |
 | kNN                   | 81.4%         |
 | Bi-Directional LSTM	  | 89.56%        |
