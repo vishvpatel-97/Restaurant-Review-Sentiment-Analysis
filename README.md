@@ -1,6 +1,6 @@
 # Restaurant-Review-Sentiment-Analysis
 
-![alt text](https://github.com/vishvpatel-97/Restaurant-Review-Sentiment-Analysis/blob/main/README-Resources/restaurant.jpg)
+![alt text](https://github.com/vishvpatel-97/Restaurant-Review-Sentiment-Analysis/blob/main/README-Resources/restaurant.jpg =100*20)
 
 ## Web App on heroku
 
