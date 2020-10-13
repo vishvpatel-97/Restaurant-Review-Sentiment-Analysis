@@ -30,10 +30,10 @@
 
 ## Applied Algorithms & Their Accuracy
 
-| Algorithm     | Accuracy |
-| ------------- | ------------- |
-| Random Forest | Content Cell  |
-| MultinomialNB | Content Cell  |
-| Random Forest | Content Cell  |
-| MultinomialNB | Content Cell  |
-| Random Forest | Content Cell  |
+| Algorithm             | Accuracy      |
+| -------------         | ------------- |
+| Random Forest         | 90.84%        |
+| MultinomialNB         | 89.48%        |
+| SVM                   | 89.16%        |
+| kNN                   | 81.4%         |
+| Bi-Directional LSTM	  | 89.56%        |
