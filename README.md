@@ -10,3 +10,6 @@
 
 ## Details of the project
 
+### Dataset
+
+![alt text](https://github.com/vishvpatel-97/Restaurant-Review-Sentiment-Analysis/blob/main/README-Resources/dataset.jpg)
