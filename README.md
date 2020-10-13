@@ -27,3 +27,5 @@
 - I considered Rating Above 3 as "Positive" and Below 3 as "Negative".
 - To understand detailed Project approach, check my restaurant-review.ipynb or app.py
 - This project has around 10,000 Reviews, so for CountVectorizer, max_features=9000 gave best results after trying values like 2500, 5000, 7500... Which I think is most important thing to achive higher accuracy value.
+
+## Applied Algorithms & Their Accuracy
