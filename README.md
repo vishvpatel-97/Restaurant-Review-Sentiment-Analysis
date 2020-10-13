@@ -29,3 +29,11 @@
 - This project has around 10,000 Reviews, so for CountVectorizer, max_features=9000 gave best results after trying values like 2500, 5000, 7500... Which I think is most important thing to achive higher accuracy value.
 
 ## Applied Algorithms & Their Accuracy
+
+| Algorithm     | Accuracy |
+| ------------- | ------------- |
+| Random Forest | Content Cell  |
+| MultinomialNB | Content Cell  |
+| Random Forest | Content Cell  |
+| MultinomialNB | Content Cell  |
+| Random Forest | Content Cell  |
