@@ -1,6 +1,6 @@
 # Restaurant-Review-Sentiment-Analysis
 
-<img src="https://github.com/vishvpatel-97/Restaurant-Review-Sentiment-Analysis/blob/main/README-Resources/restaurant.jpg" alt="alt text" width="700" height="400">
+<img src="https://github.com/vishvpatel-97/Restaurant-Review-Sentiment-Analysis/blob/main/README-Resources/restaurant.jpg" alt="alt text" width="600" height="600">
 ![](https://github.com/vishvpatel-97/Restaurant-Review-Sentiment-Analysis/blob/main/README-Resources/restaurant.jpg)
 
 ## Web App on heroku
