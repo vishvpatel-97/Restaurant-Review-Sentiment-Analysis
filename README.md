@@ -37,3 +37,6 @@
 | SVM                   | 89.16%        |
 | kNN                   | 81.4%         |
 | Bi-Directional LSTM	  | 89.56%        |
+
+- After implementing all the algorithms mentioned above, MultinomailNB has the best accuracy, so it was used for Web App.
+
